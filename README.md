@@ -1,1 +1,1 @@
-Tic tac Toe project
+Tic Tac Toe project
